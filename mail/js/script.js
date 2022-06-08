@@ -1,5 +1,6 @@
-
+// Qual è la tua email? (Usa prompt o crea form html) eliminare email di debug alla fine dell'esercizio
 const email = prompt('Qual è la tua email?', 'm96francesco@gmail.com');
+
 
 // La tua Array contente le email
 const emailAttendibili = ['pasqualino45@icloud.com','m96francesco@gmail.com', 'pippo@outlook.com', 'gattinifelici@libero.it', 'antoniolatrippa.caseificio@live.it'];
